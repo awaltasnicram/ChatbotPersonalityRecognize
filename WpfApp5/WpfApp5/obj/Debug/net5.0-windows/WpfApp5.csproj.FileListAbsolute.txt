@@ -1,0 +1,110 @@
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.cache
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.exe
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.deps.json
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.json
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.dev.json
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.lref
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.g.resources
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfo.cs
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\source\repos\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.genruntimeconfig.cache
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.exe
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.deps.json
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.json
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.dev.json
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.cache
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.lref
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.g.resources
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfo.cs
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\source\repos\test apki marcina usun\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.genruntimeconfig.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.exe
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.deps.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.dev.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.AssemblyReference.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.lref
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.g.resources
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfo.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.genruntimeconfig.cache
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.exe
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.deps.json
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.json
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.dev.json
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csprojAssemblyReference.cache
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.cache
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.lref
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.g.resources
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfo.cs
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\48502\Downloads\18.09\18_wrzesnia\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.genruntimeconfig.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.exe
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.deps.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.runtimeconfig.dev.json
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\bin\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.AssemblyReference.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5_MarkupCompile.lref
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.g.resources
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.AssemblyInfo.cs
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\ref\WpfApp5.dll
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.pdb
+C:\Users\marcin.satlawa\OneDrive - Kotrak S.A\Pulpit\dialogflow\Chatbot_Marcin_Satława\WpfApp5\WpfApp5\obj\Debug\net5.0-windows\WpfApp5.genruntimeconfig.cache

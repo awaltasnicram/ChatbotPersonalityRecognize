@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="ChatBot" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" ></ColumnDefinition>
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+            <ColumnDefinition Width="5*" ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <Border BorderThickness="1" BorderBrush="Black"  Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+            <TextBlock Text="Czat" FontSize="20" Foreground="#023e8a" FontWeight="Bold" TextAlignment="Center"  VerticalAlignment="Center"  />
+        </Border>
+
+        <TextBox  Name="_tbCzat"  Background="#e5e5e5" IsReadOnly="True" Grid.Row="1" Grid.Column="0"  Grid.ColumnSpan="2" ScrollViewer.VerticalScrollBarVisibility="Visible"   TextWrapping="Wrap" />
+        <TextBox  Name="_tbCzatWpisz" Grid.Row="2" Grid.Column="0" KeyDown="_tbCzatWpisz_KeyDown"  Margin="5,5,0,5" TextWrapping="Wrap"/>
+        <Button Name="_btChatWyslij" Content="Wyślij"  Foreground="AliceBlue" Background="#023e8a" Grid.Row="2" Grid.Column="1" Click="_btChatWyslij_Click" Margin="5,5,0,5"></Button>
+
+        <Border BorderThickness="1" BorderBrush="Black"  Grid.Column="2" Grid.Row="0" >
+            <TextBlock Text="Analiza Charakteru" FontSize="20" Foreground="#023e8a" FontWeight="Bold"  TextAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+
+        <TextBox  Name="_tbAnaliza" Background="#e5e5e5" IsReadOnly="True" Grid.Row="1"  Grid.Column="2" ScrollViewer.VerticalScrollBarVisibility="Visible"  TextWrapping="Wrap" />
+        <Button Name="_btAnaliza" Content="Analizuj Charakter" Foreground="AliceBlue" Background="#023e8a" Grid.Row="2" Grid.Column="2" Width="300" Margin="0, 5 ,0,5" Click="_btAnaliza_Click"></Button>
+    </Grid>
+
+</Window>
